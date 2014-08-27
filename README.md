@@ -8,6 +8,6 @@ Installation
 Clone repository in your home directory
 
 ```
-git clone git@github.com:chojnac/liftoffconfig.git  .liftoff
+git clone git@github.com:eternaldream/liftoffconfig.git  .liftoff
 ln -s .liftoff/.liftoffrc
 ```
